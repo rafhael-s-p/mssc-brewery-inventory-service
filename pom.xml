@@ -21,4 +21,11 @@
         </dependency>
     </dependencies>
 
+    <scm>
+        <connection>scm:git:git@github.com:RafhaelSouza/mssc-beer-inventory-service.git</connection>
+        <developerConnection>scm:git:git@github.com:RafhaelSouza/mssc-beer-inventory-service.git</developerConnection>
+        <url>https://github.com/RafhaelSouza/mssc-beer-inventory-service</url>
+        <tag>HEAD</tag>
+    </scm>
+
 </project>
